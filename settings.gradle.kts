@@ -1,0 +1,3 @@
+
+rootProject.name = "HznuOJ-AutoMatic"
+
